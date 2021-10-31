@@ -12,3 +12,5 @@ def model2():
 
 def model3():
     print("adding cod for ml 1 model 3 ")
+
+print("model 2 is peforming best")
